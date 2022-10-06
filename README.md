@@ -1,5 +1,7 @@
 # Alphafold-analysis
 
+!Graziandrea!
+
 Requires numpy, seaborn, pandas,  matplotlb, biopython, pymol
 
 Collection of scripts to survey a directory of alphafold multimer runs.
